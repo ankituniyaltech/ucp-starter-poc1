@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Headphones",
+    "price": 12999,
+    "currency": "USD",
+    "stock": 10,
+    "description": "Comfort-fit Bluetooth headphones",
+    "image": "https://via.placeholder.com/300x200?text=Headphones"
+  },
+  {
+    "id": "p2",
+    "name": "Smart Watch",
+    "price": 19999,
+    "currency": "USD",
+    "stock": 8,
+    "description": "Fitness and notifications on your wrist",
+    "image": "https://via.placeholder.com/300x200?text=Smart+Watch"
+  },
+  {
+    "id": "p3",
+    "name": "Portable Speaker",
+    "price": 8999,
+    "currency": "USD",
+    "stock": 15,
+    "description": "Compact speaker with rich sound",
+    "image": "https://via.placeholder.com/300x200?text=Speaker"
+  }
+]
