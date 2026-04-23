@@ -2,6 +2,8 @@
 
 A UCP-inspired starter project with a React + Vite frontend and a FastAPI backend.
 
+> Note: backend uses `EmailStr` validation in Pydantic, so `email-validator` must be installed (already included in `backend/requirements.txt`).
+
 ## Project structure
 
 - `backend/`: FastAPI API for discovery, products, checkout session creation, and order confirmation.
